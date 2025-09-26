@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>داستان‌های من</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>داستان‌های هفتگی</h1>
+  </header>
+  <main>
+    <article>
+      <h2>داستان اول</h2>
+      <p>اینجا متن داستان اول قرار می‌گیرد...</p>
+    </article>
+
+    <article>
+      <h2>داستان دوم</h2>
+      <p>اینجا متن داستان دوم قرار می‌گیرد...</p>
+    </article>
+  </main>
+</body>
+</html>
